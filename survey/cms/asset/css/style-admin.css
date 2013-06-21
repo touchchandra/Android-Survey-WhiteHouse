@@ -1,0 +1,156 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*login wrapper*/
+#wrapper 
+{
+		width:500px;
+		margin:0px;
+		padding:0px;
+}
+
+#logo
+{
+	width:500px;
+	height:100px;
+	background:url(../images/logo-new.png) no-repeat;
+	
+	margin:0px;
+	padding:0px;
+}
+#login_form
+{
+		float:right;
+		width:500px;
+		height:500px;
+		margin:0px;
+		padding:0px;
+		border:#999 2px solid;
+}
+#login_panel
+{
+	
+	width:495px;
+	height:400px;
+	padding:0.2em;
+	margin:0px;
+	background:url(../images/login_backgroung.png) no-repeat;
+}
+#loginpanel_left
+{
+	margin:0px;
+	padding:0px;
+	width:200px;
+	height:300px;
+	float:left;
+}
+
+#loginpanel_right
+{
+	margin:0px;
+	padding:0px;
+	width:295px;
+	height:300px;
+	float:right;
+}
+#loginpanel_info
+{
+	width:295px;
+	height:100px;
+	margin:0px;
+	padding:0px;
+}
+.buttonsubmit
+{
+	height:40px;
+	width:80px;
+	color:#FFF;
+	background:#093;
+	elevation:level;
+	
+	}
+	
+	
+/* Home page css*/
+#wrapperhome
+{
+	width:900px;
+	margin:0px;
+	padding:0px;
+}
+#topbar
+{
+	width:900px;
+	height:40px;
+	margin:0px;
+	padding:0px;
+	background:url(../images/hometop.gif) no-repeat;
+}
+#topbarleft
+{
+	width:500px;
+	height:20px;
+	padding-top:1em;
+	padding-left:0.5em;
+	height:35px;
+	float:left;
+	color:#FFF;
+}
+#topbarright
+{
+	width:300px;
+	padding-top:1em;
+	padding-left:0.5em;
+	height:35px;
+	float:right;
+	color:#FFF;
+}
+#topbarright a
+{
+	text-decoration:none;
+}
+#topbarright a:hover
+{
+	color:#CF9;
+}
+#bodywrapper
+{
+	width:900px;
+	margin:0px;
+	padding:0px;
+	
+}
+#bodyleft
+{
+	width:600px;
+	height:400px;
+	padding:0.5em;
+	float:left;
+	margin:0px;
+	border:groove #CCC 2px;
+	overflow:scroll;
+	
+}
+#bodyright
+{
+	width:200px;
+	height:500px;
+	padding:0.5em;
+	float:right;
+	margin:0px;
+}
+#pagemanager
+{
+	width:150px;
+	height:150px;
+	
+	margin:0px;
+	z-index:5px;
+}
+#menumanager
+{
+	width:150px;
+	height:150px;
+	margin:0px;
+	z-index:5px;
+}

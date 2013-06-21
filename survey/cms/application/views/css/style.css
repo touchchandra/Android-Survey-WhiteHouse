@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	margin:0px;
+	padding:0px;
+}
+#wrapper
+{
+	1000px;
+}
+#topmenu
+{
+	height:150px;
+	width:1000px;
+	background:#666;
+}
