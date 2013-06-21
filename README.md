@@ -1,13 +1,18 @@
-Android-Survey-WhiteHouse
-=========================
+**Purbanchan University**
 
-Purbanchal University
-WhiteHouse Instinute of Management
-Bachelor Of Computer Engineering
-Final Year Project 2013
+**WhiteHouse Institute Of Management**
 
-Project Superviser
-Chandra Man Shrestha
+**Project Superviser**
 
-Project Members
-Asim Ghimire
+ * Chandra Man Shrestha
+
+**Team Lead**
+
+* Asim Ghimire
+
+**Team Members**
+
+* A
+* B
+* C
+* D
